@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NorwegianCruiseLine</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Norwegian Cruise Line</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="escape">Escape</string>
+    <string name="bliss">Bliss</string>
+    <string name="sky">Sky</string>
+    <string name="error_title">Unexpected Error</string>
+    <string name="error_message">Unexpected Error occurred, please try again later</string>
+    <string name="ship_name">Ship Name</string>
+    <string name="passenger_capacity">Passenger Capacity</string>
+    <string name="crew">Crew</string>
+    <string name="inaugural_date">Inaugural Date</string>
+</resources>
